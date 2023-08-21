@@ -1,2 +1,3 @@
 # PowerBI
-Power BI Projects
+Simple PowerBI Projects in 2023
+
