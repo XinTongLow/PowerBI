@@ -1,3 +1,1 @@
-# PowerBI
-Simple PowerBI Projects in 2023
-
+"Teenagers Time Management" is a Power BI project aimed at shedding light on the crucial aspect of time management among adolescents. In the fast-paced digital age, teenagers often grapple with balancing academics, extracurricular activities, social interactions, and personal growth. This project leverages data analysis and visualization tools to explore how teenagers allocate their time, the impact of technology on their schedules, and the potential consequences of poor time management. By examining trends and patterns, we seek to provide valuable insights for parents, educators, and teenagers themselves, enabling them to make informed decisions to optimize their time and achieve a balanced and fulfilling lifestyle.
